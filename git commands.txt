@@ -1,0 +1,13 @@
+git commands
+
+
+git clone download the code from git repo
+
+git push  to transfer data from local repo to remote repo 
+git log shows the complete the commit and changes in the repo 
+git fetch to get the data from remote repo to local repo 
+git add  adding the files 
+git merge   merge is used to combine two differ branches into single branch 
+git commit  commit holds the current storage ofrepo
+git pull     pull operation copies the clone from a remote repo instance to a local one.
+branches  is used to create other line of devoplpment by default git has a master branch
