@@ -1,0 +1,19 @@
+What do you mean by the SDLC?
+The software development life cycle (SDLC) is a framework defining tasks performed at each step in the software development process. SDLC is a structure followed by a development team within the software organization. It consists of a detailed plan describing how to develop, maintain and replace specific software.
+
+
+What are the different stages of SDLC?
+There are following six phases in every Software development life cycle model:
+Requirement gathering and analysis.
+Design.
+Implementation or coding.
+Testing.
+Deployment.
+Maintenance.
+
+The most used, popular and important SDLC models are given below:
+Waterfall model.
+Iterative model.
+Spiral model.
+V-shaped model.
+Agile model.
