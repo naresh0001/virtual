@@ -1,0 +1,18 @@
+ls command-list files 
+ls-l   long list
+ls-lart means hidden 
+less error log files
+ch mod  change  file access  permissions
+ch own change the owner of  file r group
+cd change the directory
+pwd present working directory
+ cp copy the file
+mv move the file
+vim/vi open editor
+rm remove the file
+rm/dir remove directory
+touch  empty file
+cat view the content of that file
+who who is the corrent user
+
+ 
