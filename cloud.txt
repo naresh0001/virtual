@@ -1,0 +1,4 @@
+In the simplest terms, cloud computing means storing and accessing data and programs over the Internet instead of your computer's hard drive. The cloud is just a metaphor for the Internet.
+
+
+cloud we can access any server or system from remote destop with the help of through internet
