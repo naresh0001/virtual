@@ -1,0 +1,15 @@
+Why SSH is used?
+SSH is typically used to log into a remote machine and execute commands, but it also supports tunneling, forwarding TCP ports and X11 connections; it can transfer files using the associated SSH file transfer (SFTP) or secure copy (SCP) protocols. SSH uses the client-server model
+
+
+What is SSH private key?
+A host key is a cryptographic key used for authenticating computers in the SSH protocol. Host keys are key pairs, typically using the RSA, DSA, or ECDSA algorithms. Public host keys are stored on and/or distributed to SSH clients, and private keys are stored on SSH servers.
+
+
+
+What is public key authentication?
+SSH public-key authentication relies on asymmetric cryptographic algorithms that generate a pair of separate keys (i.e., a key pair), one "private" and the other "public". You keep the private key a secret and store it on the computer you use to connect to the remote system	
+
+
+What is SSH key authentication?
+SSH, or secure shell, is an encrypted protocol used to administer and communicate with servers. When working with a Linux server, chances are, you will spend most of your time in a terminal session connected to your server through SSH. ... SSH keys provide an easy, yet extremely secure way of logging into your server.
