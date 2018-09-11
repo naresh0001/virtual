@@ -1,0 +1,21 @@
+vertualization
+
+...virtualization means to create a virtual version of a device or resource, such as a server, storage device, network or even an operating system where the framework divides the resource into one or more execution environments
+
+
+....The 7 Types of Virtualization
+
+
+OS Virtualization—aka Virtual Machines. Virtualizing an operating system environment is the most common form of virtualization. ...
+Application-Server Virtualization. ...
+Application Virtualization. ...
+Administrative Virtualization. ...
+Network Virtualization. ...
+Hardware Virtualization. ...
+Storage Virtualization.
+
+
+
+....Why do we need virtualization?
+
+Virtualization reduces the number of physical servers, reducing the energy required to power and cool them. Save time. ... It's also much faster to deploy a virtual machine than it is to deploy a new physical server. Reduce desktop management headaches.
