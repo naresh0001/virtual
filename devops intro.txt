@@ -1,0 +1,18 @@
+What do DevOps do?
+
+....DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support. DevOps is also characterized by operations staff making use many of the same techniques as developers for their systems work.
+
+what is devops means
+...
+
+DevOps (development and operations) is an enterprise software development phrase used to mean a type of agile relationship between development and IT operations. The goal of DevOps is to change and improve the relationship by advocating better communication and collaboration between these two business units.
+
+....
+
+What is DevOps toolchain?
+
+A DevOps toolchain is a set or combination of tools that aid in the delivery, development, and management of applications throughout the software development lifecycle, as coordinated by an organisation that uses DevOps practices. This article appears to contain a large number of buzzwords.
+
+
+
+
