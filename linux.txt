@@ -1,0 +1,21 @@
+The Linux open source operating system, or Linux OS, is a freely distributable, cross-platform operating system based on Unix that can be installed on PCs, laptops, netbooks, mobile and tablet devices, video game consoles, servers, supercomputers and more. ... This Linux logo was suggested by Linus Torvalds in 1996.
+
+
+
+Why Linux is used?
+
+
+In many ways, Linux is similar to other operating systems you may have used before, such as Windows, OS X, or iOS. ... If you can use a computer or other electronic device, you can use Linux. But Linux also is different from other operating systems in many important ways.
+
+
+
+What are basic features of Linux operating system?
+As an Operating System, some of Linux features are:
+Portable(Multiplatform)
+Multitasking.
+Multi User.
+Multiprocessor (SMP) Support.
+Multithreading Support.
+Virtual Memory.
+Hierarchical File System.
+Graphical User Interface 
