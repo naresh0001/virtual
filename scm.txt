@@ -1,0 +1,29 @@
+source code management
+
+
+Code management in the process of handling changes to computer code. As opposed to general project management, code management deals in the precise management of code modules or collections of lines of code in order to support changes or particular goals such as maintenance or debugging.
+
+
+Below are some of the most popular and most preferred open-source version control systems and tools available for making your setup easier.
+CVS. CVS may very well be where version control systems started. ...
+SVN. ...
+GIT. ...
+Mercurial. ...
+Bazaar.
+
+
+
+What is Git source control?
+
+git-scm.com. Git (/g?t/) is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files.
+
+
+
+What are SCM tools?
+SCM is Software Configuration Management and SVN is a Version Control System tool, which is a subset of SCM. VCS are also called Revision Control and Git, Mercurial are also VCS tools ( Distributed VCS to be more specific. ) SVN, Git, Mercurial, etc. are tools for revision control, one of the processes in SCM.
+
+
+What is the difference between Git and Github?
+Git is a revision control system, a tool to manage your source code history. GitHub is a hosting service for Git repositories. So they are not the same thing: Git is the tool, GitHub is the service for projects that use Git.
+
+svn scm 
